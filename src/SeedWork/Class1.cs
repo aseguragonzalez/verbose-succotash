@@ -1,6 +1,6 @@
 ﻿namespace SeedWork;
 
-public class Class1
+public static class Class1
 {
-    public static string GetMessage() => "Hello from SeedWork!";
+    public static string Message() => "Hello from SeedWork!";
 }
